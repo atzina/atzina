@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/mr9QsvcH/chicadeveloper-Con-Nombre.png" width="80%" title="Intro Card">
+  <img src="https://i.postimg.cc/mr9QsvcH/chicadeveloper-Con-Nombre.png" width="100%" title="Intro Card">
 </p>
 
 ### Un poco sobre mí
